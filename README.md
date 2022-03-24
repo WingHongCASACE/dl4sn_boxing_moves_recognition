@@ -1,7 +1,7 @@
 # dl4sn_boxing_moves_recognition
 Using Arduino Nano33BLE and Edge Impulse for boxing movement classification
 
-**`Stay tune as more information will be provided when the written report is submitted.`**
+**`Stay tune as more information will be updated during the completion of the written report.`**
 
 Most data was generated with the boxing glove on.
 <p align="center"><img src="https://user-images.githubusercontent.com/91855312/159836941-1ff23025-5665-4e21-ac50-28e64baba6b7.jpg" 
