@@ -22,7 +22,7 @@ at least partly explain the contrast in accuracy between the regular moves and t
 alt="IMAGE ALT TEXT HERE" width=50% border="10" />
   </p>
 
-### The ML architecture using the optimal combination of hyperparameter
+### The ML architecture using the optimal combination of hyperparameters
 
 ```py
 import tensorflow as tf
