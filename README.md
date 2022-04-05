@@ -9,7 +9,7 @@ alt="IMAGE ALT TEXT HERE" width=50% border="10" />
   </p>
 
 
-While mainly the boxing glove was being used in this project, the MMA glove was served as one type of viration.  
+While mainly the boxing glove was being used in this project, the MMA (Mixed martial arts) glove was served as one type of viration.  
   <p align="center"><img src="https://user-images.githubusercontent.com/91855312/159837691-3bfa05f5-a80d-41d3-85c5-b102774c318a.jpg" 
 alt="IMAGE ALT TEXT HERE" width=50% border="10" />
   </p>
