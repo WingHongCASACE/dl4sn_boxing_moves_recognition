@@ -13,7 +13,7 @@ While mainly the boxing glove was being used in this project, the MMA (Mixed mar
   <p align="center"><img src="https://user-images.githubusercontent.com/91855312/159837691-3bfa05f5-a80d-41d3-85c5-b102774c318a.jpg" 
 alt="IMAGE ALT TEXT HERE" width=50% border="10" />
   </p>
-
+</br></br>
 This figure shows my regular moves have distinct features and can be groupped clearly. It also shows the consistency of my moves.
 The graphs from the 3 volunteers or other variations are much different than this graph. The difficulty in groupping the sample clusters from them may
 at least partly explain the contrast in accuracy between the regular moves and the other moves.
@@ -21,7 +21,7 @@ at least partly explain the contrast in accuracy between the regular moves and t
 <p align="center"><img src="https://user-images.githubusercontent.com/91855312/159839327-dbfe9931-8c24-4e93-99bf-d1b656d5cc8e.png" 
 alt="IMAGE ALT TEXT HERE" width=50% border="10" />
   </p>
-
+</br></br>
 ### The ML architecture using the optimal combination of hyperparameters
 
 ```py
