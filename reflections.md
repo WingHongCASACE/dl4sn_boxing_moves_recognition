@@ -1,0 +1,6 @@
+## Relections about the project/ program
+
+- #### Chaos, disoders, and diversities
+During data collection, it was observed that participant punched differently. The differences were not limited to speed/ punching frequency, or strength (despite this not being measured), but also how a punch was threw. For example, the spinning of hip/ shoulders for optimal distance/ power/ efficiency was not performed, or arms before throwing a punch were at different positions (how close the arms were to each other/ from the body). I think this gives an insight about the intrinsic heterogeneity in the world. Diversity and chaos exist naturally among human. (To a certain extent) disorder is the natural thing, while order is not. Martial artists and athletes learnt to perform consistently and efficiently (perhaps this is also for evolution), while amateurs without prior experience may perform unexpectedly. Planner/ designer/ analyst should have this in mind, and not to take standardization/ consistency as granted.
+- #### Reverse learning from AI
+Scientist developed neural network from physiology and neural science. As AI keeps evolving, and seemingly at a faster pace than human development. How can we exploit this and study AI for human development? Certainlty this has been applied in many disciplines, but can AI/ML provide rational/ statistically-backed prophecy?
